@@ -18,6 +18,10 @@
   "homepage": "https://github.com/LVOTC/admin_panel_ui#readme",
   "devDependencies": {
     "css-loader": "^3.2.0",
+    "grunt": "^1.0.4",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-compass": "^1.1.1",
+    "grunt-contrib-watch": "^1.1.0",
     "node-sass": "^4.12.0",
     "sass": "^1.23.0-module.beta.1",
     "sass-loader": "^8.0.0",
